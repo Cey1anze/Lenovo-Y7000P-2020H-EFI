@@ -8,7 +8,7 @@
 
 ## 支持的机型
 
-> 与**[LEGION_Y7000Series_Hackintosh](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh)**所支持机型一致
+> 与[LEGION_Y7000Series_Hackintosh](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh)所支持机型一致
 
 - Y7000P 2020H （已测试）
 
