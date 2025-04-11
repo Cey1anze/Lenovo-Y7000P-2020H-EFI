@@ -10,7 +10,8 @@
 
 > 与[LEGION_Y7000Series_Hackintosh](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh)所支持机型一致
 
-- Y7000P 2020H （已测试）
+- Y7000P 2020H （i7-10875H RTX2060）（已测试）
+- Y7000 2019（i5-9300 GTX1050)（已测试，感谢[@Hy1Fly](https://github.com/Cey1anze/Lenovo-Y7000P-2020H-EFI/issues/1)）
 
 ### 	理论上支持的机型
 
